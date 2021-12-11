@@ -1,0 +1,123 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.bg{
+    background-image: url(../img/garagemm.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-chevrolet{
+    background-image: url(../img/lojachevrolet.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-volks{
+    background-image: url(../img/lojavolkss.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-hyundai{
+    background-image: url(../img/lojahyundai.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-toyota{
+    background-image: url(../img/lojatoyota.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-mit{
+    background-image: url(../img/lojamit.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-bmw{
+    background-image: url(../img/lojabmw\ \(3\).JPG);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-meca{
+    background-image: url(../img/lojameca.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-jaguar{
+    background-image: url(../img/lojajaguar.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-land{
+    background-image: url(../img/lojaland.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-porsche{
+    background-image: url(../img/lojaporsche.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bghistoria{
+background-image: url(../img/carro1.jpg);
+height: 500px;
+width: 100%;
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
